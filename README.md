@@ -205,16 +205,16 @@ ERROR VEREN BİR LOG AKIŞI OLUR. MASTER WALLET KAYDEDİLMEDİ DİYE. MASTER WAL
 ## AŞAMA 3: MASTER WALLETI VE SUB WALLETI DISCORD AŞAMASI. 
 
 Bunun için Nimble discordun #walletapplication kanalında bot etkileşime geçiyoruz. DM kutumuza gelen sorulara cevap vereceksiniz.
-1-	MASTER CUZDAN ADRESİ
-2-	SUB WALLET ADRESI,İŞLEMCİ
-3-	LOKASYON YAZIP İŞLEM TAMAMLANIYOR.
-4-  Son soruya beni yazabilirsiniz.
+* 1-	MASTER CUZDAN ADRESİ
+* 2-	SUB WALLET ADRESI,İŞLEMCİ
+* 3-	LOKASYON YAZIP İŞLEM TAMAMLANIYOR.
+* 4-  Son soruya beni yazabilirsiniz.
 
 ÖRNEK 
-nimble1a5wr7XXXXXXXXXXXXXXXXXXMASTER
-nimbleXXXXXXXXXXXXXXDDDXXXXXXXXXXSUB,4090
-RU
-uxeyir (buraya beni yazabilirsiniz.)
+* nimble1a5wr7XXXXXXXXXXXXXXXXXXMASTER
+* nimbleXXXXXXXXXXXXXXDDDXXXXXXXXXXSUB,4090
+* RU
+* uxeyir (buraya beni yazabilirsiniz.)
 
 Cüzdanınız onaylandıktan sonra size bottan bildirim gelir. Error veren loglar normale döner.
 
