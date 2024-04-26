@@ -214,7 +214,7 @@ Bunun için Nimble discordun #walletapplication kanalında bot etkileşime geçi
 nimble1a5wr7XXXXXXXXXXXXXXXXXXMASTER
 nimbleXXXXXXXXXXXXXXDDDXXXXXXXXXXSUB,4090
 RU
-uxeyir
+uxeyir (buraya beni yazabilirsiniz.)
 
 Cüzdanınız onaylandıktan sonra size bottan bildirim gelir. Error veren loglar normale döner.
 
