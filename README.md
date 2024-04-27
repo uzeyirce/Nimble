@@ -37,7 +37,7 @@ Clore ai sitesine aşağıdaki bağlantıdan üye olun.
 
 ###  My orders kısmına tıklayalım. Deployed yazısını gördüğünüzde sunucunuz hazır demektir. Bağlantıya tıklayalım açılan sayfadan JyputerLABı seçelim.
 Kullanıcı adı isterse : clore
-şifre bir üstte kaydeetiğiniz şifre
+şifre bir üstte kaydetiğiniz şifre
 
 ![5](https://github.com/uzeyirce/Nimble-kurulum/assets/85512132/9629f050-0f50-4e2b-bd3a-0f2b3d1f62eb)
 
@@ -125,7 +125,7 @@ cd go/bin
 ./nimble-networkd keys add <masterwalletname>
 ```
 
-Yeniden cüzdan oluşturma kodu giriyoruz. Yine bu cüzdana verdiğiniz şifreyi kaydetmeyi unutmayınız. Karışmaması için buna subwallet adı verebilirsiniz.
+Yeniden cüzdan oluşturma kodu giriyoruz. Yine bu cüzdana verdiğiniz şifreyi ve çıkan anahtar kelimeleri kaydetmeyi unutmayınız. Karışmaması için buna subwallet adı verebilirsiniz.
 ```bash
 ./nimble-networkd keys add <subwalletname>
 ```
