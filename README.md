@@ -1,4 +1,4 @@
-# <h1 align="center">![logo](https://github.com/uzeyirce/Nimble-kurulum/assets/85512132/888baff5-7679-4365-a4be-5fb385cc3a0c)</h1>
+# <h1 align="center">![logo](https://github.com/uzeyirce/Nimble/assets/85512132/8b1a234b-9fcb-46fc-b5bf-4105aa5497c0)</h1>
 
 # <h1 align="center">Nimble</h1>
 
@@ -20,31 +20,31 @@ Clore ai sitesine aşağıdaki bağlantıdan üye olun.
 
 ### Account sayfasından deposite basarak clore adresimizi alıyoruz. Gate veya Mexc den bu hesaba Clore yüklüyoruz. 
 
-![2](https://github.com/uzeyirce/Nimble-kurulum/assets/85512132/2f339cc8-cf9e-4136-8dc0-a87f900035a4)
+![2](https://github.com/uzeyirce/Nimble/assets/85512132/0664b198-5363-4321-9623-026e7baf97a6)
 
 
 
 ### Hesabımıza clore geçtikten sonra artık gereksinimlere uygun makine kiralama aşamasına geçiyoruz. Aşağıda makine kiralarken dikkat etmeniz gereken yerleri  yeşil alan içinde görebilirsiniz.
 ### buna göre makine rent dediğmiz zaman o makine kiralama aşamasına geçmiş olur. 
-![3](https://github.com/uzeyirce/Nimble-kurulum/assets/85512132/17c6524a-71c7-4f8c-bfc8-cc46a1885b99)
+![3](https://github.com/uzeyirce/Nimble/assets/85512132/df3a6993-653a-440a-8695-07318fd2ddf1)
 
 
 ### Kiralama sayfasında lokasyon bilgisini not edin.
 ### Pytorch seçin
 ### Ve aşağıdaki WEBUI passwordı mutlaka not alın. önemli.
 
-![4](https://github.com/uzeyirce/Nimble-kurulum/assets/85512132/7dd15751-4004-4e1f-a0bc-e836c048261c)
+![4](https://github.com/uzeyirce/Nimble/assets/85512132/61801e18-56a7-4882-aa0b-6353c7ff62be)
 
 ###  My orders kısmına tıklayalım. Deployed yazısını gördüğünüzde sunucunuz hazır demektir. Bağlantıya tıklayalım açılan sayfadan JyputerLABı seçelim.
 Kullanıcı adı isterse : clore
 şifre bir üstte kaydetiğiniz şifre
 
-![5](https://github.com/uzeyirce/Nimble-kurulum/assets/85512132/9629f050-0f50-4e2b-bd3a-0f2b3d1f62eb)
+![5](https://github.com/uzeyirce/Nimble/assets/85512132/4076525a-1a23-46fc-89a9-9714c993ae98)
 
 
 ### Arayüze başarılı bir şekilde girdikten sonra terminal yazan girelim.
 
-![6](https://github.com/uzeyirce/Nimble-kurulum/assets/85512132/fe8ffb27-8a52-4c19-90ec-59b237df5dcc)
+![6](https://github.com/uzeyirce/Nimble/assets/85512132/16ccdaf4-2bb3-44e6-a1ba-0644d91a6371)
 
 
 ## AŞAMA 2: NIMBLE KURULUM
@@ -218,7 +218,7 @@ Bunun için Nimble discordun #walletapplication kanalında bot etkileşime geçi
 
 Cüzdanınız onaylandıktan sonra size bottan bildirim gelir. Error veren loglar normale döner.
 
-![7](https://github.com/uzeyirce/Nimble-kurulum/assets/85512132/aa5dbc19-74d7-4552-baac-dd4f138fe89a)
+![7](https://github.com/uzeyirce/Nimble/assets/85512132/8f3f030d-cb73-4a35-bc61-ee076bebd3fa)
 
 CTRL A D ile screeni kapatıp çıkıyoruz.
 
